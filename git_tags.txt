@@ -1,0 +1,9 @@
+git clone <download repository>
+gti ls <list>
+git touch <index.html>
+git add <add to repos>
+git commit -m
+git staus
+git push <to push to git hub>
+git commit -am <all files must be commited>
+git pull <download current version fro github>
